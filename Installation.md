@@ -27,7 +27,7 @@ jupyter-notebook
 
 ## 2. Windows
 
-Head over to [anaconda.com](https://www.anaconda.com/) and install the latest version of Anaconda. Make sure to download the “Python 3.7 Version” for the appropriate architecture.
+Head over to [anaconda.com](https://www.anaconda.com/) and install the latest version of Anaconda. Make sure to download the “Python 3.9 Version” for the appropriate architecture.
 
 To install Jupyter using Anaconda, just go through the following instructions:
 
