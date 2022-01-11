@@ -18,3 +18,6 @@ Happy Learning!
 3. [NumPy Documentation](https://numpy.org/doc/stable/user/absolute_beginners.html)
 4. [Matplotlib Documentation](https://matplotlib.org/stable/users/getting_started/index.html)
 5. [SymPy](https://docs.sympy.org/latest/tutorial/index.html)
+
+## Session Recordings:
+1. [Session 1: Python Basics](https://youtu.be/vW8h05f3mrI)
