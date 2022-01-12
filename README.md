@@ -21,3 +21,4 @@ Happy Learning!
 
 ## Session Recordings:
 1. [Session 1: Python Basics](https://youtu.be/vW8h05f3mrI)
+2. [Session 2: Linear Ordinary Differential Equations](https://youtu.be/cCGEKcDMdYY)
