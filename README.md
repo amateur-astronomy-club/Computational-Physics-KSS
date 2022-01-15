@@ -23,5 +23,6 @@ Happy Learning!
 1. [Session 1: Python Basics](https://youtu.be/vW8h05f3mrI)
 2. [Session 2: Linear Ordinary Differential Equations](https://youtu.be/cCGEKcDMdYY)
 3. [Session 3: Non-Linear Ordinary Differential Equations](https://youtu.be/WjDrY8qFjgo)
+4. [Session 4: Linear Partial Differential Equations](https://youtu.be/wbvUdgZVqk4)
 
 
